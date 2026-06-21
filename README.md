@@ -1,1 +1,3 @@
-# SQL_Learning_notes
+## SQL_Learning_notes
+## Day1
+# Introduction , Datatypes ,constraints
