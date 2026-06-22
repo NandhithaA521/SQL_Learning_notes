@@ -2,3 +2,6 @@
 
 ## Day1
 - Introduction , Datatypes ,constraints
+
+## Day2
+- Overview of SQL-DQL(selection,projection).
